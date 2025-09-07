@@ -50,4 +50,4 @@ def limpiar_pbi(path_csv, output_csv):
     df_clean.to_csv(output_csv, index=False, encoding='utf-8')
     return df_clean
 
-limpiar_pbi("TablasOriginales/World_GDP.csv", "TablasLimpias/PBI_2023.csv")
+limpiar_pbi("TablasOriginales/World_GDP.csv", "TablasLimpias/datos_completos/PBI_2023.csv")

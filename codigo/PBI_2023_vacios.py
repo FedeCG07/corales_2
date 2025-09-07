@@ -54,4 +54,4 @@ def vacios_pbi(path_csv, output_csv_vacios):
     vacios.to_csv(output_csv_vacios, index=False, encoding='utf-8')
     return vacios
 
-vacios_pbi("TablasOriginales/World_GDP.csv", "TablasLimpias/PBI_faltante.csv")
+vacios_pbi("TablasOriginales/World_GDP.csv", "TablasLimpias/datos_faltantes/PBI_faltante.csv")
