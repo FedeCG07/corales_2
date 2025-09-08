@@ -65,6 +65,7 @@ id_seccion,sede_id,nombre
 64,ENIGE,Seccion
 65,EPORT,Sección  Consular
 66,EMARR,Seccion
+67,DITIC,Seccion
 68,ETRIN,Seccion
 69,CBARC,Seccion
 70,EDOMI,Seccion
@@ -155,4 +156,5 @@ id_seccion,sede_id,nombre
 155,EPAKI,Seccion
 156,CCHIC,Seccion
 157,EMSIA,Seccion
+158,,Seccion
 159,EVIET,Seccion

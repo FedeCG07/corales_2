@@ -14,8 +14,7 @@ df_sede = pd.DataFrame(columns=[
     "id_sede",   # PK
     "nombre",
     "tipo",
-    "pais",      # FK -> Pais.country_name o country_code
-    "ciudad"
+    "pais"      # FK -> Pais.country_name o country_code
 ])
 df_sede.to_csv("TablasLimpias/tablas_propias/sede.csv", index=False, encoding="utf-8")
 
@@ -34,4 +33,5 @@ df_dato_extra = pd.DataFrame(columns=[
     "tipo_dato",   # (facebook, twitter, instagram)
     "valor"        # URL/número/email
 ])
+
 df_dato_extra.to_csv("TablasLimpias/tablas_propias/dato_extra.csv", index=False, encoding="utf-8")

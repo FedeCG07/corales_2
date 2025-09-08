@@ -1,0 +1,449 @@
+id_dato,id_sede,tipo_dato,valor,region_geografica
+1,CALEG,twitter,https://twitter.com/ArgPortoAlegre,AMÉRICA  DEL  SUR
+2,CALEG,facebook,https://www.facebook.com/ArgentinaEnPortoAlegre/,AMÉRICA  DEL  SUR
+3,CALEG,instagram,https://www.instagram.com/argenportoalegre/,AMÉRICA  DEL  SUR
+4,CALEG,sitio_web,https://caleg.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+5,CANTO,facebook,https://www.facebook.com/Consulado-de-la-Rep%C3%BAblica-Argentina-en-Antofagasta-255728465291743/,AMÉRICA  DEL  SUR
+6,CANTO,instagram,https://www.instagram.com/consulargantofagasta/,AMÉRICA  DEL  SUR
+7,CANTO,sitio_web,https://canto.cancilleria.gob.ar/,AMÉRICA  DEL  SUR
+8,CAREN,facebook,https://www.facebook.com/profile.php?id=100014152878593,AMÉRICA  DEL  SUR
+9,CAREN,sitio_web,https://caren.cancilleria.gob.ar/,AMÉRICA  DEL  SUR
+10,CASUN,sitio_web,https://www.casun.mrecic.gov.ar,AMÉRICA  DEL  SUR
+11,CATLA,instagram,https://instagram.com/ARGenAtlanta,AMÉRICA  DEL  NORTE
+12,CATLA,facebook,https://facebook.com/ARGenAtlanta,AMÉRICA  DEL  NORTE
+13,CATLA,otro,https://www.linkedin.com/company/ARGenAtlanta,AMÉRICA  DEL  NORTE
+14,CATLA,twitter,https://x.com/ARGenAtlanta,AMÉRICA  DEL  NORTE
+15,CATLA,sitio_web,https://www.catla.mrecic.gov.ar,AMÉRICA  DEL  NORTE
+16,CBARC,facebook,https://www.facebook.com/ArgEnBarcelona/,EUROPA  OCCIDENTAL
+17,CBARC,twitter,https://twitter.com/argenbarcelona,EUROPA  OCCIDENTAL
+18,CBARC,instagram,https://www.instagram.com/argenbarcelona/,EUROPA  OCCIDENTAL
+19,CBARC,youtube,https://www.youtube.com/@consuladoargentinoenbarcel2664,EUROPA  OCCIDENTAL
+20,CBARC,otro,https://www.linkedin.com/company/consulado-y-centro-de-promoci%C3%B3n-de-la-republica-argentina-en-barcelona,EUROPA  OCCIDENTAL
+21,CBARC,sitio_web,https://cbarc.cancilleria.gob.ar/,EUROPA  OCCIDENTAL
+22,CBEIJ,sitio_web,https://www.echin.cancilleria.gov.ar,ASIA
+23,CBELO,facebook,https://www.facebook.com/ArgentinaEnBeloHorizonte/,AMÉRICA  DEL  SUR
+24,CBELO,twitter,https://twitter.com/consgralbelo,AMÉRICA  DEL  SUR
+25,CBELO,instagram,https://www.instagram.com/consgralbelo/,AMÉRICA  DEL  SUR
+26,CBONN,facebook,https://www.facebook.com/ConsuladoArgentinoenBonn,EUROPA  OCCIDENTAL
+27,CBONN,instagram,https://www.instagram.com/argentinaenbonn,EUROPA  OCCIDENTAL
+28,CBONN,sitio_web,https://cbonn.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+29,CCADI,facebook,https://www.facebook.com/ArgentinaEnCadiz,EUROPA  OCCIDENTAL
+30,CCADI,sitio_web,https://ccadi.cancilleria.gob.ar/,EUROPA  OCCIDENTAL
+31,CCEST,facebook,https://www.facebook.com/ArgEnCiudaddeleste/,AMÉRICA  DEL  SUR
+32,CCEST,instagram,https://www.instagram.com/argenciudaddeleste,AMÉRICA  DEL  SUR
+33,CCEST,sitio_web,https://ccest.cancilleria.gov.ar/,AMÉRICA  DEL  SUR
+34,CCHIC,twitter,https://twitter.com/argenchicago,AMÉRICA  DEL  NORTE
+35,CCHIC,facebook,https://www.facebook.com/ArgentinaEnChicago,AMÉRICA  DEL  NORTE
+36,CCHIC,youtube,https://www.youtube.com/channel/UCjZ3a6zTr156aP_zg-1lQfQ/featured,AMÉRICA  DEL  NORTE
+37,CCHIC,sitio_web,https://cchic.cancilleria.gob.ar/,AMÉRICA  DEL  NORTE
+38,CCOCH,facebook,https://www.facebook.com/ArgentinaEnCochabamba/,AMÉRICA  DEL  SUR
+39,CCOCH,sitio_web,https://ccoch.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+40,CCOLO,facebook,https://www.facebook.com/ArgentinaenColonia,AMÉRICA  DEL  SUR
+41,CCOLO,sitio_web,https://ccolo.mrecic.gov.ar,AMÉRICA  DEL  SUR
+42,CCONC,sitio_web,http://www.cconc.mrecic.gov.ar/,AMÉRICA  DEL  SUR
+43,CCURI,facebook,https://www.facebook.com/ArgEnCuritiba/,AMÉRICA  DEL  SUR
+44,CCURI,instagram,https://instagram.com/argEncuritiba,AMÉRICA  DEL  SUR
+45,CCURI,twitter,https://twitter.com/ARGenCuri,AMÉRICA  DEL  SUR
+46,CCURI,sitio_web,https://ccuri.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+47,CENCA,sitio_web,https://www.cenca.mrecic.gov.ar,AMÉRICA  DEL  SUR
+48,CFBEN,sitio_web,https://cfben.cancilleria.gov.ar,AMÉRICA  DEL  SUR
+49,CFDIG,twitter,https://twitter.com/argentinaenfoz,AMÉRICA  DEL  SUR
+50,CFDIG,facebook,https://www.facebook.com/ArgentinaEnFozDeIguazu,AMÉRICA  DEL  SUR
+51,CFDIG,instagram,https://www.instagram.com/argentinaenfoz/,AMÉRICA  DEL  SUR
+52,CFDIG,sitio_web,https://cfdig.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+53,CFLOR,facebook,https://www.facebook.com/cflor.mrecic.gov.ar,AMÉRICA  DEL  SUR
+54,CFLOR,sitio_web,https://cflor.mrecic.gov.ar,AMÉRICA  DEL  SUR
+55,CFRAN,sitio_web,https://www.cfran.mrecic.gov.ar,EUROPA  OCCIDENTAL
+56,CGEST,facebook,https://www.facebook.com/ArgentinaEnEstambul,EUROPA  OCCIDENTAL
+57,CGEST,instagram,https://www.instagram.com/consuladoargentinoenestambul/,EUROPA  OCCIDENTAL
+58,CGEST,sitio_web,https://cgest.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+59,CGMUM,instagram,https://www.instagram.com/argenmumbai/,ASIA
+60,CGMUM,sitio_web,https://cgmum.cancilleria.gob.ar/,ASIA
+61,CGPAZ,sitio_web,https://cgpaz.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+62,CGTEL,facebook,https://www.facebook.com/ArgentinaEnIsrael/,ASIA
+63,CGTEL,sitio_web,http://cgtel.mrecic.gob.ar,ASIA
+64,CGUAN,sitio_web,https://cguan.cancilleria.gob.ar,ASIA
+65,CGUAY,sitio_web,https://cguay.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+66,CGVAN,sitio_web,https://cgvan.cancilleria.gob.ar,AMÉRICA  DEL  NORTE
+67,CHAMB,instagram,https://www.instagram.com/consulado.argentino.hamburgo,EUROPA  OCCIDENTAL
+68,CHAMB,facebook,https://www.facebook.com/ARGenHamburgo,EUROPA  OCCIDENTAL
+69,CHAMB,sitio_web,https://chamb.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+70,CHONG,facebook,https://www.facebook.com/ArgEnHongKong,ASIA
+71,CHONG,instagram,https://www.instagram.com/consuladoargentinohongkong/,ASIA
+72,CHONG,sitio_web,https://chong.cancilleria.gob.ar,ASIA
+73,CHOUS,twitter,https://x.com/ARGENHOUSTON,AMÉRICA  DEL  NORTE
+74,CHOUS,facebook,https://www.facebook.com/ArgentinaEnHouston/,AMÉRICA  DEL  NORTE
+75,CHOUS,instagram,https://www.instagram.com/consuladoarghouston/,AMÉRICA  DEL  NORTE
+76,CHOUS,sitio_web,https://www.chous.mrecic.gov.ar,AMÉRICA  DEL  NORTE
+77,CJOHA,sitio_web,http://www.cjoha.mrecic.gob.ar,ÁFRICA  SUBSAHARIANA
+78,CLANG,facebook,https://www.facebook.com/ArgentinaEnLosAngeles/,AMÉRICA  DEL  NORTE
+79,CLANG,instagram,https://www.instagram.com/arg_clang/,AMÉRICA  DEL  NORTE
+80,CLANG,twitter,https://twitter.com/arg_clang,AMÉRICA  DEL  NORTE
+81,CLANG,sitio_web,https://clang.cancilleria.gob.ar,AMÉRICA  DEL  NORTE
+82,CLIMA,sitio_web,https://clima.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+83,CLOND,instagram,https://www.instagram.com/consuladoargentinoenlondres/,EUROPA  OCCIDENTAL
+84,CLOND,sitio_web,https://www.clond.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+85,CMADR,facebook,https://www.facebook.com/ArgentinaEnMadridEsp/,EUROPA  OCCIDENTAL
+86,CMADR,instagram,https://www.instagram.com/consuladoargentinoenmadrid?igsh=MW1wMHQzbzhqMGwwbw==,EUROPA  OCCIDENTAL
+87,CMADR,sitio_web,https://cmadr.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+88,CMALD,facebook,https://www.facebook.com/pg/ConsuladoArgentinoenMaldonado/posts/?ref=page_internal,AMÉRICA  DEL  SUR
+89,CMALD,instagram,https://www.instagram.com/consulado_argentino/,AMÉRICA  DEL  SUR
+90,CMALD,sitio_web,https://cmald.cancilleria.gov.ar,AMÉRICA  DEL  SUR
+91,CMALL,facebook,https://www.facebook.com/ArgentinaEnPalmaDeMallorca,EUROPA  OCCIDENTAL
+92,CMALL,instagram,https://www.instagram.com/argentinaenpalmademallorca/,EUROPA  OCCIDENTAL
+93,CMALL,sitio_web,https://cmall.mrecic.gov.ar,EUROPA  OCCIDENTAL
+94,CMDEO,facebook,https://www.facebook.com/ArgentinaEnMontevideo/,AMÉRICA  DEL  SUR
+95,CMDEO,instagram,https://www.instagram.com/consuladoargenmontevideo,AMÉRICA  DEL  SUR
+96,CMDEO,sitio_web,https://cmdeo.mrecic.gov.ar,AMÉRICA  DEL  SUR
+97,CMEXI,sitio_web,https://cmexi.cancilleria.gob.ar,AMÉRICA  DEL  NORTE
+98,CMIAM,facebook,https://es-la.facebook.com/consuladoargentino.miami/,AMÉRICA  DEL  NORTE
+99,CMIAM,instagram,https://instagram.com/consuladoargentinomia/,AMÉRICA  DEL  NORTE
+100,CMIAM,twitter,https://x.com/argenmiami/,AMÉRICA  DEL  NORTE
+101,CMIAM,sitio_web,https://www.cmiam.cancilleria.gov.ar,AMÉRICA  DEL  NORTE
+102,CMILA,instagram,https://www.instagram.com/argenmilano/,EUROPA  OCCIDENTAL
+103,CMILA,youtube,https://www.youtube.com/channel/UCZdYeN4gttYEyX15xxkUNWQ,EUROPA  OCCIDENTAL
+104,CMILA,sitio_web,https://cmila.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+105,CMREA,facebook,https://www.facebook.com/ArgentinaEnMontreal,AMÉRICA  DEL  NORTE
+106,CMREA,instagram,https://www.instagram.com/consuladoargenmontreal/,AMÉRICA  DEL  NORTE
+107,CMREA,youtube,https://www.youtube.com/@consuladodelarepublicadear8025,AMÉRICA  DEL  NORTE
+108,CMREA,sitio_web,https://cmrea.cancilleria.gob.ar,AMÉRICA  DEL  NORTE
+109,CNYOR,facebook,https://www.facebook.com/ARGenNewYork,AMÉRICA  DEL  NORTE
+110,CNYOR,twitter,https://twitter.com/ARGenNewYork,AMÉRICA  DEL  NORTE
+111,CNYOR,instagram,https://www.instagram.com/argennewyork/,AMÉRICA  DEL  NORTE
+112,CNYOR,youtube,https://www.youtube.com/@ARGenNewYork,AMÉRICA  DEL  NORTE
+113,CNYOR,otro,https://www.linkedin.com/company/argennewyork,AMÉRICA  DEL  NORTE
+114,CNYOR,sitio_web,https://cnyor.cancilleria.gob.ar,AMÉRICA  DEL  NORTE
+115,CPABL,otro,https://consuladoargentinosp@gmail.com,AMÉRICA  DEL  SUR
+116,CPABL,sitio_web,https://www.cpabl.mrecic.gov.ar,AMÉRICA  DEL  SUR
+117,CPAYS,sitio_web,https://www.cpays.mrecic.gov.ar,AMÉRICA  DEL  SUR
+118,CPCAR,sitio_web,https://cpcar.cancilleria.gob.ar,AMÉRICA  DEL  NORTE
+119,CPMON,facebook,https://www.facebook.com/ArgentinaEnPuertoMontt/,AMÉRICA  DEL  SUR
+120,CPMON,sitio_web,http://cpmon.mrecic.gov.ar/,AMÉRICA  DEL  SUR
+121,CRECI,facebook,https://www.facebook.com/ArgentinaEnBrasilRecife,AMÉRICA  DEL  SUR
+122,CRECI,instagram,https://www.instagram.com/consuladoargentinorecife,AMÉRICA  DEL  SUR
+123,CRECI,sitio_web,https://creci.mrecic.gov.ar,AMÉRICA  DEL  SUR
+124,CRIOJ,facebook,https://www.facebook.com/ArgentinaEnRiodeJaneiro/,AMÉRICA  DEL  SUR
+125,CRIOJ,instagram,https://www.instagram.com/consuladoargentinoenrio/,AMÉRICA  DEL  SUR
+126,CRIOJ,sitio_web,https://crioj.cancilleria.gov.ar,AMÉRICA  DEL  SUR
+127,CROMA,sitio_web,https://www.croma.mrecic.gov.ar,EUROPA  OCCIDENTAL
+128,CSBAH,instagram,https://www.instagram.com/argentinaensalvador,AMÉRICA  DEL  SUR
+129,CSBAH,facebook,https://www.facebook.com/ArgentinaenSalvador,AMÉRICA  DEL  SUR
+130,CSBAH,twitter,https://twitter.com/ArgentinaEnSSA,AMÉRICA  DEL  SUR
+131,CSBAH,sitio_web,https://csbah.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+132,CSCRS,instagram,https://www.instagram.com/consuladoargentinoscz,AMÉRICA  DEL  SUR
+133,CSCRS,facebook,https://www.facebook.com/profile.php?id=100069410160459&mibextid=ZbWKwL,AMÉRICA  DEL  SUR
+134,CSCRS,sitio_web,https://cscrs.cancilleria.gob.ar/,AMÉRICA  DEL  SUR
+135,CSHAN,sitio_web,https://www.cshan.mrecic.gov.ar,ASIA
+136,CSIDN,facebook,https://www.facebook.com/ArgentinaEnSidney/,OCEANÍA
+137,CSIDN,instagram,https://www.instagram.com/argentinaensydney/,OCEANÍA
+138,CSIDN,sitio_web,http://csidn.mrecic.gov.ar,OCEANÍA
+139,CSIGO,twitter,https://www.x.com/ConsuladoCSIGO,AMÉRICA  DEL  SUR
+140,CSIGO,sitio_web,https://www.csigo.mrecic.gov.ar,AMÉRICA  DEL  SUR
+141,CSLTO,sitio_web,https://www.cslto.mrecic.gov.ar,AMÉRICA  DEL  SUR
+142,CTARI,sitio_web,https://ctari.mrecic.gov.ar,AMÉRICA  DEL  SUR
+143,CTENE,facebook,https://www.facebook.com/argentinaentenerife,EUROPA  OCCIDENTAL
+144,CTENE,sitio_web,https://www.ctene.cancilleria.gov.ar,EUROPA  OCCIDENTAL
+145,CTORO,facebook,https://www.facebook.com/ArgentinaEnToronto/,AMÉRICA  DEL  NORTE
+146,CTORO,instagram,https://www.instagram.com/consuladoargtoronto/,AMÉRICA  DEL  NORTE
+147,CTORO,sitio_web,https://www.ctoro.mrecic.gov.ar,AMÉRICA  DEL  NORTE
+148,CURUG,facebook,https://www.facebook.com/ArgEnUruguayana/,AMÉRICA  DEL  SUR
+149,CURUG,twitter,https://twitter.com/CURUGoK,AMÉRICA  DEL  SUR
+150,CURUG,instagram,https://instagram.com/consuladouruguayana,AMÉRICA  DEL  SUR
+151,CURUG,sitio_web,https://Curug.Cancilleria.gov.ar,AMÉRICA  DEL  SUR
+152,CVALP,facebook,https://www.facebook.com/ArgentinaEnValparaiso,AMÉRICA  DEL  SUR
+153,CVALP,instagram,https://www.instagram.com/argenvalparaiso/,AMÉRICA  DEL  SUR
+154,CVALP,sitio_web,https://cvalp.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+155,CVIGO,facebook,https://www.facebook.com/ArgentinaenVigo,EUROPA  OCCIDENTAL
+156,CVIGO,instagram,https://www.instagram.com/argenvigo/,EUROPA  OCCIDENTAL
+157,CVIGO,sitio_web,http://cvigo.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+158,CVILL,facebook,https://www.facebook.com/ConsuladoArgentinoenVillazon,AMÉRICA  DEL  SUR
+159,CVILL,twitter,https://twitter.com/ArgentinaenVill,AMÉRICA  DEL  SUR
+160,CVILL,sitio_web,https://cvill.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+161,CYACU,sitio_web,https://cyacu.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+162,DIGAC,sitio_web,https://cancilleria.gob.ar,AMÉRICA  DEL  SUR
+163,EALEM,facebook,https://www.facebook.com/ArgEnAlemania/,EUROPA  OCCIDENTAL
+164,EALEM,instagram,https://www.instagram.com/argindeu/,EUROPA  OCCIDENTAL
+165,EALEM,sitio_web,https://ealem.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+166,EANGO,facebook,https://www.facebook.com/ArgentinaEnAngola/,ÁFRICA  SUBSAHARIANA
+167,EANGO,instagram,https://www.instagram.com/embargentinaenangola/,ÁFRICA  SUBSAHARIANA
+168,EANGO,sitio_web,https://eango.mrecic.gov.ar,ÁFRICA  SUBSAHARIANA
+169,EARAB,facebook,https://www.facebook.com/argentinaenarabiasaudita/,ASIA
+170,EARAB,twitter,https://twitter.com/ensaudita,ASIA
+171,EARAB,instagram,https://www.instagram.com/arginsaudi/,ASIA
+172,EARAB,sitio_web,http://earab.mrecic.gov.ar,ASIA
+173,EARGE,twitter,https://twitter.com/ARGenArgelia,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+174,EARGE,instagram,https://instagram.com/argenargelia,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+175,EARGE,facebook,https://facebook.com/ArgentinaEnArgelia,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+176,EARGE,sitio_web,https://earge.cancilleria.gob.ar/,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+177,EARME,instagram,https://www.instagram.com/arginarmenia/,ASIA
+178,EARME,facebook,https://www.facebook.com/ArgentinaEnArmenia,ASIA
+179,EARME,twitter,https://twitter.com/ARGinArmenia,ASIA
+180,EARME,sitio_web,https://earme.cancilleria.gob.ar,ASIA
+181,EASIR,facebook,https://www.facebook.com/Embajada-Argentina-en-Siria-112176794025495,ASIA
+182,EASIR,sitio_web,https://www.easir.cancilleria.gob.ar,ASIA
+183,EAUST,facebook,https://www.facebook.com/ArgentinaEnAustralia/,OCEANÍA
+184,EAUST,twitter,https://twitter.com/ARGinAustralia,OCEANÍA
+185,EAUST,sitio_web,http://eaust.mrecic.gov.ar,OCEANÍA
+186,EAZER,facebook,https://www.facebook.com/EmbassyOfArgentina/,ASIA
+187,EAZER,instagram,https://www.instagram.com/embargentinaaz,ASIA
+188,EAZER,twitter,https://www.twitter.com/ARGEnAzer,ASIA
+189,EAZER,sitio_web,https://eazer.cancilleria.gob.ar,ASIA
+190,EBANG,otro,https://embajada.argentina.en.bangladesh,ASIA
+191,EBANG,otro,https://www.linkedin.com/showcase/argenbangladesh/,ASIA
+192,EBANG,sitio_web,https://ebang.cancilleria.gob.ar,ASIA
+193,EBARB,facebook,https://www.facebook.com/ArgentinaEnBarbados/,AMÉRICA  CENTRAL  Y  CARIBE
+194,EBARB,sitio_web,https://ebarb.cancilleria.gob.ar,AMÉRICA  CENTRAL  Y  CARIBE
+195,EBELG,facebook,https://www.facebook.com/ArgentinaEnBelgica/,EUROPA  OCCIDENTAL
+196,EBELG,instagram,https://www.instagram.com/argenbelgica/,EUROPA  OCCIDENTAL
+197,EBELG,sitio_web,http://ebelg.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+198,EBOLV,sitio_web,https://ebolv.mrecic.gov.ar,AMÉRICA  DEL  SUR
+199,EBRAS,instagram,https://www.instagram.com/embaargenbrasil,AMÉRICA  DEL  SUR
+200,EBRAS,twitter,https://twitter.com/ArgentinaEnBras,AMÉRICA  DEL  SUR
+201,EBRAS,facebook,https://www.facebook.com/embargbrasil,AMÉRICA  DEL  SUR
+202,EBRAS,sitio_web,https://ebras.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+203,EBULG,facebook,https://www.facebook.com/ArgentinaEnBulgaria/,EUROPA  CENTRAL  Y  ORIENTAL
+204,EBULG,youtube,https://www.youtube.com/channel/UCK-uSxN84lEMqJwCviEjZow,EUROPA  CENTRAL  Y  ORIENTAL
+205,EBULG,sitio_web,http://ebulg.mrecic.gov.ar,EUROPA  CENTRAL  Y  ORIENTAL
+206,ECANA,facebook,https://www.facebook.com/ArgentinaInCanada,AMÉRICA  DEL  NORTE
+207,ECANA,youtube,https://www.youtube.com/channel/UC77DGXZ2ppExRtV4WS4IV-A,AMÉRICA  DEL  NORTE
+208,ECANA,twitter,https://twitter.com/ArginCanada,AMÉRICA  DEL  NORTE
+209,ECANA,instagram,https://www.instagram.com/argentinaincanada/,AMÉRICA  DEL  NORTE
+210,ECANA,otro,https://www.linkedin.com/company/argentinaincanada,AMÉRICA  DEL  NORTE
+211,ECANA,sitio_web,https://ecana.cancilleria.gob.ar/,AMÉRICA  DEL  NORTE
+212,ECEUR,facebook,https://www.facebook.com/ARGanteUE,EUROPA  OCCIDENTAL
+213,ECEUR,otro,https://www.linkedin.com/company/arganteue,EUROPA  OCCIDENTAL
+214,ECEUR,twitter,https://twitter.com/ARGanteUE,EUROPA  OCCIDENTAL
+215,ECEUR,youtube,https://www.youtube.com/@ARGanteUE,EUROPA  OCCIDENTAL
+216,ECEUR,instagram,https://www.instagram.com/arganteue/,EUROPA  OCCIDENTAL
+217,ECEUR,sitio_web,https://eceur.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+218,ECHES,facebook,https://www.facebook.com/ArgentinaEnRepCheca/,EUROPA  CENTRAL  Y  ORIENTAL
+219,ECHES,instagram,https://www.instagram.com/argentinaenpraga,EUROPA  CENTRAL  Y  ORIENTAL
+220,ECHES,sitio_web,https://eches.cancilleria.gob.ar/,EUROPA  CENTRAL  Y  ORIENTAL
+221,ECHIN,sitio_web,https://echin.cancilleria.gob.ar,ASIA
+222,ECOLO,facebook,https://www.facebook.com/ArgColombia/?ref=bookmarks,AMÉRICA  DEL  SUR
+223,ECOLO,sitio_web,https://ecolo.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+224,ECORE,facebook,https://www.facebook.com/ArgentinaEnCorea/,ASIA
+225,ECORE,instagram,https://www.instagram.com/embajadaargentinaencorea1/?hl=es,ASIA
+226,ECORE,sitio_web,https://ecore.cancilleria.gob.ar/,ASIA
+227,ECUBA,facebook,https://www.facebook.com/ArgentinaEnCubaLaHabana/,AMÉRICA  CENTRAL  Y  CARIBE
+228,ECUBA,instagram,https://www.instagram.com/argentinaencuba/,AMÉRICA  CENTRAL  Y  CARIBE
+229,ECUBA,sitio_web,https://www.ecuba.mrecic.gov.ar,AMÉRICA  CENTRAL  Y  CARIBE
+230,EDINA,facebook,https://www.facebook.com/EmbajadadeArgentinaenDinamarca/,EUROPA  OCCIDENTAL
+231,EDINA,instagram,https://www.instagram.com/argentinaindenmark?igsh=dTI4cDN6NHFpYWM0,EUROPA  OCCIDENTAL
+232,EDINA,otro,https://www.linkedin.com/company/embajada-de-la-rep-blica-argentina-en-dinamarca,EUROPA  OCCIDENTAL
+233,EDINA,sitio_web,https://edina.mrecic.gov.ar/,EUROPA  OCCIDENTAL
+234,EDOMI,facebook,https://es-la.facebook.com/ArgentinaEnRepublicaDominicana/,AMÉRICA  CENTRAL  Y  CARIBE
+235,EDOMI,instagram,https://www.instagram.com/argentinaenrd/,AMÉRICA  CENTRAL  Y  CARIBE
+236,EDOMI,sitio_web,https://edomi.cancilleria.gob.ar,AMÉRICA  CENTRAL  Y  CARIBE
+237,EEARB,facebook,https://www.facebook.com/ArgentinaEnEmiratosArabesUnidos,ASIA
+238,EEARB,sitio_web,https://eearb.mrecic.gov.ar,ASIA
+239,EECUA,facebook,https://www.facebook.com/Argentina-en-Ecuador-772092829594964/?ref=bookmarks,AMÉRICA  DEL  SUR
+240,EECUA,instagram,https://instagram.com/argentinaenecuador?igshid=1pzlw4ojakxjh,AMÉRICA  DEL  SUR
+241,EECUA,youtube,https://www.youtube.com/channel/UC7FnoaJNif8jQLyBb4QDKng,AMÉRICA  DEL  SUR
+242,EECUA,sitio_web,https://eecua.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+243,EEEUU,twitter,https://twitter.com/ARGinUSA,AMÉRICA  DEL  NORTE
+244,EEEUU,facebook,https://www.facebook.com/ARGinUSA/,AMÉRICA  DEL  NORTE
+245,EEEUU,instagram,https://www.instagram.com/ARGinUSA/,AMÉRICA  DEL  NORTE
+246,EEEUU,otro,https://www.flickr.com/photos/ARGinUSA/,AMÉRICA  DEL  NORTE
+247,EEEUU,youtube,https://www.youtube.com/ARGinUSA,AMÉRICA  DEL  NORTE
+248,EEEUU,otro,https://www.linkedin.com/in/ARGinUSA,AMÉRICA  DEL  NORTE
+249,EEEUU,sitio_web,https://eeeuu.cancilleria.gob.ar/,AMÉRICA  DEL  NORTE
+250,EEGIP,instagram,https://instagram.com/argenegipto/,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+251,EEGIP,twitter,https://twitter.com/ARGenEgipto,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+252,EEGIP,facebook,https://facebook.com/ArgentinaenEgipto,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+253,EEGIP,sitio_web,https://eegip.cancilleria.gob.ar,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+254,EEOEA,facebook,https://www.facebook.com/ARGenOEA/,AMÉRICA  DEL  NORTE
+255,EEOEA,instagram,https://www.instagram.com/argenoea/,AMÉRICA  DEL  NORTE
+256,EEOEA,twitter,https://www.twitter.com/ARGenOEA,AMÉRICA  DEL  NORTE
+257,EEOEA,youtube,https://www.youtube.com/channel/UCqjmCa0UfL3_I3Ovqz5ZAag/featured,AMÉRICA  DEL  NORTE
+258,EEOEA,sitio_web,https://www.eeoea.mrecic.gov.ar,AMÉRICA  DEL  NORTE
+259,EESPA,twitter,https://twitter.com/ARGenesp,EUROPA  OCCIDENTAL
+260,EESPA,facebook,https://www.facebook.com/argenespa/,EUROPA  OCCIDENTAL
+261,EESPA,instagram,https://www.instagram.com/argenespa/,EUROPA  OCCIDENTAL
+262,EESPA,otro,https://www.linkedin.com/company/83543239/admin/dashboard/,EUROPA  OCCIDENTAL
+263,EESPA,sitio_web,https://eespa.cancilleria.gob.ar/,EUROPA  OCCIDENTAL
+264,EETIO,facebook,https://www.facebook.com/ArgEnEtiopia/,ÁFRICA  SUBSAHARIANA
+265,EETIO,instagram,https://www.instagram.com/embaargenetiopia/,ÁFRICA  SUBSAHARIANA
+266,EETIO,sitio_web,https://eetio.cancilleria.gob.ar/,ÁFRICA  SUBSAHARIANA
+267,EFILI,facebook,https://www.facebook.com/ArgentinaEnFilipinas,ASIA
+268,EFILI,instagram,https://www.instagram.com/argentinaenfilipinas/,ASIA
+269,EFILI,twitter,https://twitter.com/ArgentinaEnFili,ASIA
+270,EFILI,sitio_web,https://efili.cancilleria.gob.ar,ASIA
+271,EFINL,facebook,https://www.facebook.com/ArgentinaEnFinlandia/,EUROPA  OCCIDENTAL
+272,EFINL,instagram,https://www.instagram.com/argenfinlandia/,EUROPA  OCCIDENTAL
+273,EFINL,sitio_web,https://efinl.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+274,EFRAN,facebook,https://www.facebook.com/ArgentinaEnFrancia/,EUROPA  OCCIDENTAL
+275,EFRAN,sitio_web,https://efran.mrecic.gov.ar,EUROPA  OCCIDENTAL
+276,EFRUS,facebook,https://www.facebook.com/EMBAJADAARGENTINAENMOSCU,EUROPA  CENTRAL  Y  ORIENTAL
+277,EFRUS,twitter,https://twitter.com/EmbArgRusia,EUROPA  CENTRAL  Y  ORIENTAL
+278,EFRUS,sitio_web,https://efrus.cancilleria.gob.ar,EUROPA  CENTRAL  Y  ORIENTAL
+279,EGREC,facebook,https://www.facebook.com/ArgentinaEnGrecia,EUROPA  OCCIDENTAL
+280,EGREC,youtube,https://www.youtube.com/channel/UCFaKsErEs33zEdzJbnrzOog/featured,EUROPA  OCCIDENTAL
+281,EGREC,sitio_web,https://egrec.cancilleria.gov.ar,EUROPA  OCCIDENTAL
+282,EGUAT,twitter,https://x.com/ARGenGuatemala,AMÉRICA  CENTRAL  Y  CARIBE
+283,EGUAT,facebook,https://www.facebook.com/emba.arge.7,AMÉRICA  CENTRAL  Y  CARIBE
+284,EGUAT,instagram,https://www.instagram.com/argenguatemala/,AMÉRICA  CENTRAL  Y  CARIBE
+285,EGUAT,sitio_web,http://eguat.cancilleria.gov.ar/,AMÉRICA  CENTRAL  Y  CARIBE
+286,EGUYA,sitio_web,https://eguya.cancilleria.gov.ar,AMÉRICA  CENTRAL  Y  CARIBE
+287,EHAIT,sitio_web,http://ehait.mrecic.gov.ar,AMÉRICA  CENTRAL  Y  CARIBE
+288,EHILE,twitter,https://twitter.com/EmbArgEnChile,AMÉRICA  DEL  SUR
+289,EHILE,facebook,https://www.facebook.com/EmbArgentinaEnChile,AMÉRICA  DEL  SUR
+290,EHILE,instagram,https://www.instagram.com/embargenchile/,AMÉRICA  DEL  SUR
+291,EHILE,sitio_web,https://ehile.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+292,EHOND,sitio_web,https://ehond.cancilleria.gob.ar,AMÉRICA  CENTRAL  Y  CARIBE
+293,EINDI,twitter,https://twitter.com/ArgentinaEnInd,ASIA
+294,EINDI,facebook,https://www.facebook.com/ArgentinaEnInd,ASIA
+295,EINDI,instagram,https://www.instagram.com/argentinaenind/,ASIA
+296,EINDI,sitio_web,https://eindi.cancilleria.gob.ar/,ASIA
+297,EIRAN,sitio_web,https://www.eiran.mrecic.gob.ar,ASIA
+298,EIRLA,facebook,https://www.facebook.com/ArgentinaEnIrlanda/,EUROPA  OCCIDENTAL
+299,EIRLA,instagram,https://www.instagram.com/embajadaargentinairlanda,EUROPA  OCCIDENTAL
+300,EIRLA,sitio_web,https://eirla.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+301,EISIA,sitio_web,https://www.eisia.mrecic.gov.ar,ASIA
+302,EISRA,facebook,https://www.facebook.com/ArgEnIsrael,ASIA
+303,EISRA,twitter,https://twitter.com/argenisrael,ASIA
+304,EISRA,sitio_web,http://www.eisra.cancilleria.gov.ar/,ASIA
+305,EITAL,facebook,https://es-la.facebook.com/emb.roma/,EUROPA  OCCIDENTAL
+306,EITAL,twitter,https://twitter.com/arginitalia?lang=es,EUROPA  OCCIDENTAL
+307,EITAL,instagram,https://www.instagram.com/arginitalia/?hl=es,EUROPA  OCCIDENTAL
+308,EITAL,sitio_web,https://eital.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+309,EJAMA,facebook,https://www.facebook.com/ArgentinaEnJamaica/,AMÉRICA  CENTRAL  Y  CARIBE
+310,EJAMA,twitter,https://twitter.com/ARGenJamaica,AMÉRICA  CENTRAL  Y  CARIBE
+311,EJAMA,sitio_web,https://www.ejama.mrecic.gov.ar,AMÉRICA  CENTRAL  Y  CARIBE
+312,EJAPO,instagram,https://www.instagram.com/embajadaargentinaenjapon/,ASIA
+313,EJAPO,facebook,https://www.facebook.com/ArgJapon/?ref=bookmarks,ASIA
+314,EJAPO,twitter,https://www.twitter.com/ARGenJapon_,ASIA
+315,EJAPO,sitio_web,https://http:ejapo.mrecic.gov.ar,ASIA
+316,EKENY,facebook,https://www.facebook.com/ArgentinaEnKenia,ÁFRICA  SUBSAHARIANA
+317,EKENY,instagram,https://www.instagram.com/argenkenya/,ÁFRICA  SUBSAHARIANA
+318,EKENY,twitter,https://twitter.com/ArgenKenya,ÁFRICA  SUBSAHARIANA
+319,EKENY,sitio_web,https://ekeny.cancilleria.gob.ar/,ÁFRICA  SUBSAHARIANA
+320,EKUWA,facebook,https://www.facebook.com/ArgentinaenKuwait,ASIA
+321,EKUWA,sitio_web,https://ekuwa@mrecic.gov.ar,ASIA
+322,ELBIA,sitio_web,https://etune.cancilleria.gob.ar/es,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+323,ELBNO,facebook,https://www.facebook.com/ArgentinaEnLibano,ASIA
+324,ELBNO,instagram,https://www.instagram.com/argentinaenlibano/,ASIA
+325,ELBNO,sitio_web,https://www.elbno.mrecic.gov.ar,ASIA
+326,ELUCI,sitio_web,https://eluci.cancilleria.gob.ar,AMÉRICA  CENTRAL  Y  CARIBE
+327,EMARR,instagram,https://www.instagram.com/argenmarruecos/,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+328,EMARR,twitter,https://twitter.com/ArgMarruecos,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+329,EMARR,sitio_web,https://emarr.cancilleria.gob.ar,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+330,EMEXI,twitter,https://twitter.com/@ARGenMexico,AMÉRICA  DEL  NORTE
+331,EMEXI,facebook,https://www.facebook.com/ARGenMexico/,AMÉRICA  DEL  NORTE
+332,EMEXI,instagram,https://www.instagram.com/embargenmexico/,AMÉRICA  DEL  NORTE
+333,EMEXI,youtube,https://www.youtube.com/user/EmbaArgenMX,AMÉRICA  DEL  NORTE
+334,EMEXI,sitio_web,https://www.emexi.cancilleria.gob.ar,AMÉRICA  DEL  NORTE
+335,EMFAO,sitio_web,https://emfao.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+336,EMOZA,facebook,https://www.facebook.com/ArgentinaEnMozambique/,ÁFRICA  SUBSAHARIANA
+337,EMOZA,sitio_web,https://emoza.cancilleria.gob.ar,ÁFRICA  SUBSAHARIANA
+338,EMSIA,facebook,https://www.facebook.com/ArgentinaEnMalasia,ASIA
+339,EMSIA,sitio_web,https://emsia.cancilleria.gob.ar,ASIA
+340,EMSUR,sitio_web,https://eurug.cancilleria.gov.ar,AMÉRICA  DEL  SUR
+341,ENAUN,twitter,https://twitter.com/ArgentinaUN,AMÉRICA  DEL  NORTE
+342,ENAUN,sitio_web,https://enaun.mrecic.gov.ar,AMÉRICA  DEL  NORTE
+343,ENICA,sitio_web,https://enica.cancilleria.gob.ar,AMÉRICA  CENTRAL  Y  CARIBE
+344,ENIGE,facebook,https://www.facebook.com/ArgentinaEnNigeria/,ÁFRICA  SUBSAHARIANA
+345,ENIGE,instagram,https://www.instagram.com/embargennigeria/?igshid=f0laoeu8lhv8,ÁFRICA  SUBSAHARIANA
+346,ENIGE,sitio_web,https://enige.cancilleria.gob.ar,ÁFRICA  SUBSAHARIANA
+347,ENORU,facebook,https://www.facebook.com/ArgentinaEnNoruega/,EUROPA  OCCIDENTAL
+348,ENORU,instagram,https://www.instagram.com/arginnorway/,EUROPA  OCCIDENTAL
+349,ENORU,twitter,https://x.com/arginnorway?lang=en,EUROPA  OCCIDENTAL
+350,ENORU,otro,https://www.linkedin.com/company/embajada-de-la-rep%C3%BAblica-argentina-ante-el-reino-de-noruega-argentine-embassy-to-norway,EUROPA  OCCIDENTAL
+351,ENORU,sitio_web,https://enoru.cancilleria.gob.ar/,EUROPA  OCCIDENTAL
+352,ENZEL,facebook,https://www.facebook.com/ArgentinaenNuevaZelandia/,OCEANÍA
+353,ENZEL,sitio_web,https://enzel.cancilleria.gob.ar,OCEANÍA
+354,EOIRS,facebook,https://www.facebook.com/ArgentinaEnGinebra,EUROPA  OCCIDENTAL
+355,EOIRS,instagram,https://www.instagram.com/mision.argentina/,EUROPA  OCCIDENTAL
+356,EOIRS,twitter,https://twitter.com/ArgentinaONUOMC,EUROPA  OCCIDENTAL
+357,EOIRS,youtube,https://www.youtube.com/channel/UCSOsChik8j7nFJZnPq6K7Ag,EUROPA  OCCIDENTAL
+358,EOIRS,sitio_web,https://www.eoirs.cancilleria.gov.ar,EUROPA  OCCIDENTAL
+359,EPAKI,instagram,https://www.instagram.com/argentinaenpakistan/,ASIA
+360,EPAKI,sitio_web,https://epaki.cancilleria.gob.ar,ASIA
+361,EPARA,twitter,https://twitter.com/argenparaguay_,AMÉRICA  DEL  SUR
+362,EPARA,facebook,https://www.facebook.com/embajada.paraguay,AMÉRICA  DEL  SUR
+363,EPARA,sitio_web,https://epara.cancilleria.gov.ar,AMÉRICA  DEL  SUR
+364,EPBAJ,facebook,https://www.facebook.com/ArgEnPaisesBajos/,EUROPA  OCCIDENTAL
+365,EPBAJ,twitter,https://twitter.com/ArgentinaEnPB,EUROPA  OCCIDENTAL
+366,EPBAJ,instagram,https://www.instagram.com/argenpaisesbajos/,EUROPA  OCCIDENTAL
+367,EPBAJ,sitio_web,https://www.epbaj.mrecic.gov.ar,EUROPA  OCCIDENTAL
+368,EPERU,twitter,https://twitter.com/Emb_Arg_Peru,AMÉRICA  DEL  SUR
+369,EPERU,facebook,https://www.facebook.com/ArgentinaEnPeru,AMÉRICA  DEL  SUR
+370,EPERU,sitio_web,https://www.eperu.mrecic.gov.ar,AMÉRICA  DEL  SUR
+371,EPNMA,sitio_web,https://www.epnma.cancilleria.gob.ar,AMÉRICA  CENTRAL  Y  CARIBE
+372,EPOLO,facebook,https://www.facebook.com/profile.php?id=61560600343776,EUROPA  CENTRAL  Y  ORIENTAL
+373,EPOLO,sitio_web,https://epolo.cancilleria.gob.ar,EUROPA  CENTRAL  Y  ORIENTAL
+374,EPORT,sitio_web,https://eport.mrecic.gov.ar,EUROPA  OCCIDENTAL
+375,EQATR,sitio_web,https://eqatr.mrecic.gov.ar,ASIA
+376,ERICA,facebook,https://www.facebook.com/argentinaencostarica/,AMÉRICA  CENTRAL  Y  CARIBE
+377,ERICA,instagram,https://www.instagram.com/argencostarica/,AMÉRICA  CENTRAL  Y  CARIBE
+378,ERICA,sitio_web,https://erica.cancilleria.gob.ar,AMÉRICA  CENTRAL  Y  CARIBE
+379,ERUMA,facebook,https://www.facebook.com/ArgentinaEnRumania,EUROPA  CENTRAL  Y  ORIENTAL
+380,ERUMA,sitio_web,https://eruma.cancilleria.gob.ar/,EUROPA  CENTRAL  Y  ORIENTAL
+381,ERUNI,twitter,https://twitter.com/ARGinUK,EUROPA  OCCIDENTAL
+382,ERUNI,facebook,https://www.facebook.com/ARGinUK/,EUROPA  OCCIDENTAL
+383,ERUNI,otro,https://www.flickr.com/photos/138300767@N07/albums,EUROPA  OCCIDENTAL
+384,ERUNI,instagram,https://www.instagram.com/arginuk/,EUROPA  OCCIDENTAL
+385,ERUNI,youtube,https://www.youtube.com/channel/UCzaGU10f-77SR56kini9-1g/videos?view_as=subscriber,EUROPA  OCCIDENTAL
+386,ERUNI,sitio_web,https://eruni.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+387,ESAFR,facebook,https://facebook.com/ArgenSudafrica,ÁFRICA  SUBSAHARIANA
+388,ESAFR,twitter,https://twitter.com/EmbArgentina,ÁFRICA  SUBSAHARIANA
+389,ESAFR,instagram,https://www.instagram.com/argentinaensudafrica,ÁFRICA  SUBSAHARIANA
+390,ESAFR,sitio_web,http://esafr.mrecic.gov.ar/,ÁFRICA  SUBSAHARIANA
+391,ESALV,twitter,https://twitter.com/ARGenElSalvador,AMÉRICA  CENTRAL  Y  CARIBE
+392,ESALV,facebook,https://www.facebook.com/ArgentinaEnElSalvador/,AMÉRICA  CENTRAL  Y  CARIBE
+393,ESALV,instagram,https://www.instagram.com/embargenelsalvador/,AMÉRICA  CENTRAL  Y  CARIBE
+394,ESALV,sitio_web,https://esalv.cancilleria.gob.ar,AMÉRICA  CENTRAL  Y  CARIBE
+395,ESENE,sitio_web,https://esene.cancilleria.gob.ar/,ÁFRICA  SUBSAHARIANA
+396,ESERB,sitio_web,https://eserb.cancilleria.gob.ar,EUROPA  CENTRAL  Y  ORIENTAL
+397,ESING,twitter,https://twitter.com/ARGinSingapore,ASIA
+398,ESING,instagram,https://instagram.com/argentine_embassy_singapore?igshid=YmMyMTA2M2Y=,ASIA
+399,ESING,sitio_web,https://esing.cancilleria.gob.ar,ASIA
+400,ESSED,twitter,https://twitter.com/ArgSantaSede,EUROPA  OCCIDENTAL
+401,ESSED,youtube,https://www.youtube.com/c/EmbajadaArgentinaantelaSantaSede,EUROPA  OCCIDENTAL
+402,ESSED,facebook,https://www.facebook.com/ArgEnSantaSede,EUROPA  OCCIDENTAL
+403,ESSED,instagram,https://www.instagram.com/argensantasede/,EUROPA  OCCIDENTAL
+404,ESSED,sitio_web,https://essed.mrecic.gov.ar,EUROPA  OCCIDENTAL
+405,ESUEC,otro,https://www.linkedin.com/company/argentinainsweden/,EUROPA  OCCIDENTAL
+406,ESUEC,facebook,https://www.facebook.com/arginsweden/,EUROPA  OCCIDENTAL
+407,ESUEC,instagram,https://www.instagram.com/arginsweden/,EUROPA  OCCIDENTAL
+408,ESUEC,sitio_web,https://www.esuec.mrecic.gov.ar,EUROPA  OCCIDENTAL
+409,ESUIZ,sitio_web,https://esuiz.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+410,ESURI,sitio_web,https://esuri.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+411,ETAIL,facebook,https://www.facebook.com/Embajada.Argentina.Tailandia/,ASIA
+412,ETAIL,sitio_web,https://etail.cancilleria.gob.ar,ASIA
+413,ETRIA,facebook,https://www.facebook.com/ArgentinaEnAustria/,EUROPA  OCCIDENTAL
+414,ETRIA,twitter,https://twitter.com/ARGenViena,EUROPA  OCCIDENTAL
+415,ETRIA,instagram,https://www.instagram.com/argenviena/,EUROPA  OCCIDENTAL
+416,ETRIA,sitio_web,https://etria.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+417,ETRIN,facebook,https://www.facebook.com/ArgentinaEnTrinidadYTobago,AMÉRICA  CENTRAL  Y  CARIBE
+418,ETRIN,sitio_web,https://www.etrin.mrecic.gov.ar,AMÉRICA  CENTRAL  Y  CARIBE
+419,ETUNE,facebook,https://www.facebook.com/ArgEnTunez/,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+420,ETUNE,twitter,https://www.twitter.com/EmbajadaTunez,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+421,ETUNE,instagram,https://www.instagram.com/embargentinatn,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+422,ETUNE,youtube,https://www.youtube.com/channel/UC8kSZug1SPHrp3r1hGzhjtg,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+423,ETUNE,sitio_web,https://etune.cancilleria.gob.ar,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+424,ETURQ,sitio_web,https://eturq.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+425,EUCRA,facebook,https://www.facebook.com/ArgentinaEnUcrania,EUROPA  CENTRAL  Y  ORIENTAL
+426,EUCRA,instagram,https://www.instagram.com/argenucrania/,EUROPA  CENTRAL  Y  ORIENTAL
+427,EUCRA,sitio_web,https://eucra.cancilleria.gob.ar,EUROPA  CENTRAL  Y  ORIENTAL
+428,EUNES,twitter,https://twitter.com/ArgentinaUNESCO,EUROPA  OCCIDENTAL
+429,EUNES,facebook,https://www.facebook.com/delegation.argentine/,EUROPA  OCCIDENTAL
+430,EUNES,sitio_web,https://www.eunes.mrecic.gov.ar,EUROPA  OCCIDENTAL
+431,EUNGR,facebook,https://www.facebook.com/ArgentinaEnHungria,EUROPA  CENTRAL  Y  ORIENTAL
+432,EUNGR,twitter,https://twitter.com/EmbArgHungria,EUROPA  CENTRAL  Y  ORIENTAL
+433,EUNGR,instagram,https://www.instagram.com/argentinaenhungria/,EUROPA  CENTRAL  Y  ORIENTAL
+434,EUNGR,sitio_web,https://eungr.cancilleria.gob.ar,EUROPA  CENTRAL  Y  ORIENTAL
+435,EURUG,twitter,https://twitter.com/ArgentinaEnUru,AMÉRICA  DEL  SUR
+436,EURUG,facebook,https://www.facebook.com/ArgentinaEnUru/,AMÉRICA  DEL  SUR
+437,EURUG,instagram,https://www.instagram.com/argentinaenuru/,AMÉRICA  DEL  SUR
+438,EURUG,sitio_web,https://eurug.mrecic.gov.ar,AMÉRICA  DEL  SUR
+439,EVENE,twitter,https://twitter.com/argenvenezuela?lang=es,AMÉRICA  DEL  SUR
+440,EVENE,facebook,https://www.facebook.com/EmbajadaArgentinaEnVenezuela,AMÉRICA  DEL  SUR
+441,EVENE,instagram,https://www.instagram.com/argenvenezuela/,AMÉRICA  DEL  SUR
+442,EVENE,sitio_web,http://www.evene.mrecic.gov.ar,AMÉRICA  DEL  SUR
+443,EVIET,facebook,https://www.facebook.com/ArgentinaEnVietnam/,ASIA
+444,EVIET,instagram,https://www.instagram.com/argenvietnam/,ASIA
+445,EVIET,sitio_web,https://eviet.cancilleria.gob.ar,ASIA
+446,OCCAT,sitio_web,https://occat.mrecic.gob.ar,ASIA
+447,REPAL,facebook,https://www.facebook.com/ArgEnPalestina,ASIA
+448,REPAL,sitio_web,https://repal.mrecic.gov.ar,ASIA
