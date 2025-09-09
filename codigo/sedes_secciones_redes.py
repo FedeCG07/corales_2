@@ -14,6 +14,7 @@ def choose_country_code(df):
     return None
 
 def normalize_url(u):
+    """Si es un link lo normaliza agregandole el inicio si no lo tuviera"""
     if pd.isna(u):
         return None
     s = str(u).strip()
@@ -170,18 +171,10 @@ datos_raw = pd.read_csv("TablasOriginales/lista-sedes-datos.csv", encoding="utf-
 datos_raw.columns = [c.strip() for c in datos_raw.columns]
 
 # preferimos columna 'redes_sociales' si existe
-redes_col = None
-for cand in ["redes_sociales","redes", "red_social", "red_sociales"]:
-    if cand in datos_raw.columns:
-        redes_col = cand
-        break
+redes_col = "redes_sociales"
 
-# también tomamos 'sitio_web' y 'correo_electronico' por si interesa
-sitio_col = None
-for cand in ["sitio_web","sitio_web_principal","web"]:
-    if cand in datos_raw.columns:
-        sitio_col = cand
-        break
+# también tomamos 'sitio_web'
+sitio_col = "sitio_web"
 
 # aseguramos que exista region_geografica
 region_col = "region_geografica" if "region_geografica" in datos_raw.columns else None

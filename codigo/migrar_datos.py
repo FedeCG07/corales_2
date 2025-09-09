@@ -10,7 +10,7 @@ datos_path = "TablasLimpias/datos_completos/datos.csv"
 OUT_DIR = "TablasLimpias/tablas_propias"
 
 GRB_FIX = True   # Se encontró un error con el código de país GBR (Gran Bretaña) que está como GRB, esta variable sirve para corregirlo
-GENERATE_PROBLEMS_CSV = True
+GENERATE_PROBLEMS_CSV = True #Esta variable sirve para crear un .csv de problemas encontrados a la hora de migrar los datos, errores que pasaron de largo en la limpieza original
 
 # PBI
 df_pbi = pd.read_csv(pbi_path, encoding="utf-8", low_memory=False)
@@ -39,7 +39,6 @@ sede_out = sedes[["id_sede", "nombre", "tipo", "country_code"]].copy()
 datos = pd.read_csv(datos_path, encoding="utf-8", low_memory=False)
 datos.columns = [c.strip() for c in datos.columns]
 
-# si existe la columna region_geografica la usamos
 region_map = {}
 if "region_geografica" in datos.columns:
     tmp = datos[["id_sede", "region_geografica"]].dropna().drop_duplicates()
@@ -67,14 +66,14 @@ for cc in country_codes:
         row["country_name"] = None
         row["PBI_2023"] = np.nan
 
-    # asignar región desde datos.csv si existe
+    # asignar región desde datos.csv
     row["region"] = region_map.get(cc, None)
     pais_rows.append(row)
 
 df_pais = pd.DataFrame(pais_rows, columns=["country_code", "country_name", "region", "PBI_2023"])
 
 # Eliminar registro del Vaticano (VAT)
-# Se encontró un problema con el registro del Pbi del vaticano, por lo que se elimina directamente del dataframe pais y se registra en el csv de problemas
+# Se encontró un problema con el registro del PBI del vaticano, por lo que se elimina directamente del dataframe pais y se registra en el csv de problemas
 if "VAT" in df_pais["country_code"].values:
     problems.append({
         "issue": "removed_vatican",

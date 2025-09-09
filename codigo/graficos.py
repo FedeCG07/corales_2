@@ -49,11 +49,11 @@ pais_stats["secciones_promedio"] = pais_stats.apply(
     axis=1
 )
 
-# configurar seaborn (paleta copada)
+# configurar seaborn (colorcitos copados)
 sns.set_theme(style="whitegrid")
 palette = "Set2"
 
-# A) Cantidad de sedes por región (barras)-
+# A) Cantidad de sedes por región (barras)
 sede_con_region = sede.merge(pais[["country_code", "region"]], on="country_code", how="left")
 sedes_por_region = sede_con_region.groupby("region", as_index=False).agg(cantidad_sedes_region=("id_sede", "nunique"))
 sedes_por_region = sedes_por_region.sort_values("cantidad_sedes_region", ascending=False).reset_index(drop=True)
