@@ -161,4 +161,4 @@ if GENERATE_PROBLEMS_CSV:
         df_problems = pd.DataFrame(problems)
     else:
         df_problems = pd.DataFrame(columns=["issue"])
-    df_problems.to_csv(os.path.join(OUT_DIR, "problemas_calidad.csv"), index=False, encoding="utf-8")
+    df_problems.to_csv(os.path.join("TablasLimpias/datos_faltantes", "problemas_calidad.csv"), index=False, encoding="utf-8")
