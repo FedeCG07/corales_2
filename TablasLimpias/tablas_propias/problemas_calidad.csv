@@ -1,3 +1,0 @@
-issue,reason,id_seccion,sede_id,nombre
-seccion_fk_invalid,DITIC sede_id doesn't exist,67,DITIC,Seccion
-seccion_fk_invalid,Invlid sede_id,158,nan,Seccion

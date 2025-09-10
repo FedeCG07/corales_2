@@ -1,0 +1,3 @@
+issue,reason,id_seccion,sede_id,nombre
+seccion_fk_invalid,Invalid sede_id,67,DITIC,Seccion
+seccion_fk_invalid,Invalid sede_id,158,nan,Seccion
