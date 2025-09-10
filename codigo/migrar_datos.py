@@ -72,16 +72,6 @@ for cc in country_codes:
 
 df_pais = pd.DataFrame(pais_rows, columns=["country_code", "country_name", "region", "PBI_2023"])
 
-# Eliminar registro del Vaticano (VAT)
-# Se encontró un problema con el registro del PBI del vaticano, por lo que se elimina directamente del dataframe pais y se registra en el csv de problemas
-if "VAT" in df_pais["country_code"].values:
-    problems.append({
-        "issue": "removed_vatican",
-        "country_code": "VAT",
-        "reason": "Vatican (VAT) eliminado por falta de PBI en la fuente."
-    })
-    df_pais = df_pais[df_pais["country_code"] != "VAT"].reset_index(drop=True)
-
 # Secciones
 sec = pd.read_csv(secciones_path, encoding="utf-8", low_memory=False)
 sec.columns = [c.strip() for c in sec.columns]
