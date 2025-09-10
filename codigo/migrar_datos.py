@@ -99,6 +99,7 @@ for _, r in sec_nodup.iterrows():
     if sid_str is None or sid_str not in valid_sede_ids:
         problems.append({
             "issue": "seccion_fk_invalid",
+            "reason": "Invalid sede_id",
             "id_seccion": r.get("id_seccion"),
             "sede_id": sid,
             "nombre": r.get("nombre")
