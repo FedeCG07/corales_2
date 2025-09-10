@@ -1,4 +1,3 @@
-issue,country_code,reason,id_seccion,sede_id,nombre
-removed_vatican,VAT,Vatican (VAT) eliminado por falta de PBI en la fuente.,,,
-seccion_fk_invalid,,,67,DITIC,Seccion
-seccion_fk_invalid,,,158,nan,Seccion
+issue,reason,id_seccion,sede_id,nombre
+seccion_fk_invalid,DITIC sede_id doesn't exist,67,DITIC,Seccion
+seccion_fk_invalid,Invlid sede_id,158,nan,Seccion
